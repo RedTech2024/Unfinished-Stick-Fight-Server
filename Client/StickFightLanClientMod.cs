@@ -9,7 +9,7 @@ using UnityEngine.SceneManagement;
 
 namespace StickFightLanClientMod
 {
-    [BepInPlugin("com.yourname.stickfightlanclient", "Stick Fight LAN Client Mod", "0.1.1")]
+    [BepInPlugin("stickfightlanclient", "Stick Fight LAN Client Mod", "0.1.1")]
     [BepInProcess("StickFight.exe")]
     public class LanClientMod : BaseUnityPlugin
     {
